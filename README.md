@@ -1,5 +1,6 @@
 # Convert-fields
 Convert fields of associative array into multidimensional array
+```
 INITIAL ARRAY:
 Array
 (
@@ -10,6 +11,7 @@ Array
     [parent2.child2.position] => 10
     [parent3.child3.position] => 10
 )
+
 FINAL ARRAY:
 Array
 (
@@ -48,3 +50,4 @@ Array
         )
 
 )
+```
